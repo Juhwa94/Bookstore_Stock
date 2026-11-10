@@ -7,13 +7,6 @@
 ## 🎥 시연 영상
 https://youtu.be/sU0ogD0SPSw (유튜브 링크)
 
-## 🚀 배포 주소
-http://3.25.242.30
-> - Railway를 이용하여 프론트엔드와 백엔드를 배포했습니다.
-> - 현재 배포 환경에서는 CORS 및 서버 설정 이슈로 일부 API 기능이 제한됩니다.
-> - 프로젝트의 전체 기능은 시연 영상과 로컬 실행 환경에서 정상적으로 확인할 수 있습니다.
-> - 배포 환경 이슈를 분석하며 CORS 설정, 환경변수, API 통신 구조를 개선하고 있습니다.
-
 ## 🎥 프리젠테이션
 https://drive.google.com/file/d/16ZEfj61N7T6VEQeNHA-rA1HqBN8_2XZq/view?usp=sharing
 
