@@ -8,7 +8,7 @@
 https://youtu.be/sU0ogD0SPSw (유튜브 링크)
 
 ## 🎥 프리젠테이션
-https://drive.google.com/file/d/16ZEfj61N7T6VEQeNHA-rA1HqBN8_2XZq/view?usp=sharing
+[https://drive.google.com/file/d/16ZEfj61N7T6VEQeNHA-rA1HqBN8_2XZq/view?usp=sharing](https://drive.google.com/file/d/1UmawkWbIlSCPyj8LwlHsbyeueqtvPg1q/view?usp=sharing)
 
 ## ⏲️ 개발 기간   
 > - 2026.7.3(금) ~ 2026.7.29(수)
